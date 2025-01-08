@@ -5,6 +5,14 @@ import fetch from 'node-fetch';
 
 const app = new Hono().basePath('/api')
 
+// 允许来自 https://www.milkywayidle.com 的 CORS 请求
+app.use((c, next) => {
+  c.res.headers.append('Access-Control-Allow-Origin', 'https://www.milkywayidle.com');
+  c.res.headers.append('Access-Control-Allow-Methods', 'GET, POST, PATCH, PUT, OPTIONS');
+  c.res.headers.append('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+  return next();
+});
+
 app.get('/', (c) => {
   return c.json({ message: "Congrats! You've deployed Hono to Vercel" })
 })
@@ -12,6 +20,16 @@ app.get('/', (c) => {
 app.post('/upload_market_book', async (c) => {
   const data = await c.req.json();
   
+  // 获取 base market book
+  const baseMarketBookResponse = await fetch('https://raw.githubusercontent.com/holychikenz/MWIApi/main/milkyapi.json');
+  if (!baseMarketBookResponse.ok) {
+    return c.json({ message: 'Error fetching the base market book.' }, 500);
+  }
+  const baseMarketBook = await baseMarketBookResponse.json();
+
+  // 更新 base market book
+  const updatedMarketBook = { ...baseMarketBook, ...data };
+
   // 获取 GitHub 仓库和文件的路径
   const { GITHUB_TOKEN, GITHUB_REPO, GITHUB_FILE_PATH } = process.env;
 
@@ -34,7 +52,7 @@ app.post('/upload_market_book', async (c) => {
   const fileData = await getFileResponse.json();
 
   // 更新文件内容
-  const updatedContent = Buffer.from(JSON.stringify(data, null, 2)).toString('base64');
+  const updatedContent = Buffer.from(JSON.stringify(updatedMarketBook, null, 2)).toString('base64');
   
   // 提交到 GitHub 的请求体
   const commitData = {
