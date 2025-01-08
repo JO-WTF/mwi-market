@@ -16,7 +16,7 @@ app.post('/upload_market_book', async (c) => {
   const { GITHUB_TOKEN, GITHUB_REPO, GITHUB_FILE_PATH } = process.env;
 
   // GitHub API 端点
-  const apiUrl = `https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FILE_PATH}`;
+  const apiUrl = `https://api.github.com/repos/JO-WTF/${GITHUB_REPO}/contents/${GITHUB_FILE_PATH}`;
 
   // 获取当前文件的内容和 SHA 值
   const getFileResponse = await fetch(apiUrl, {
