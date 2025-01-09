@@ -179,9 +179,14 @@
       "ask": "35.00",
       "bid": "31.00",
       "vendor": null
+    },
+    "blueberry": {
+      "ask": "64.00",
+      "bid": "43.00",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:57.850Z"
+    "timestamp": "2025-01-09T14:39:59.324Z"
   }
 }
