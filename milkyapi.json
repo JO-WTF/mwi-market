@@ -1261,7 +1261,7 @@
       "vendor": null
     },
     "Dragon Fruit Yogurt": {
-      "ask": "1097.37",
+      "ask": "1100.00",
       "bid": "1000.00",
       "vendor": null
     },
@@ -2107,7 +2107,7 @@
     },
     "Marsberry Cake": {
       "ask": "1250.00",
-      "bid": "1161.66",
+      "bid": "1161.08",
       "vendor": null
     },
     "Marsberry Donut": {
@@ -3036,7 +3036,7 @@
       "vendor": null
     },
     "Star Fruit Gummy": {
-      "ask": "1246.91",
+      "ask": "1250.00",
       "bid": "1000.00",
       "vendor": null
     },
@@ -3061,7 +3061,7 @@
       "vendor": null
     },
     "Strawberry Cake": {
-      "ask": "1900.00",
+      "ask": "1846.63",
       "bid": "522.77",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-09T19:08:53.771Z"
+  "time": "2025-01-09T19:11:54.321Z"
 }
