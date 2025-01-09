@@ -3787,7 +3787,7 @@
     },
     "dragon_fruit_gummy": {
       "ask": "760.00",
-      "bid": "740.00",
+      "bid": "732.52",
       "vendor": null
     },
     "apple_yogurt": {
@@ -3801,5 +3801,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-09T16:47:40.222Z"
+  "time": "2025-01-09T16:49:44.599Z"
 }
