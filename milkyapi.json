@@ -49,9 +49,19 @@
       "ask": "406754.97",
       "bid": "316774.19",
       "vendor": null
+    },
+    "chimerical_chest_key": {
+      "ask": "1914159.29",
+      "bid": "1372123.89",
+      "vendor": null
+    },
+    "sinister_entry_key": {
+      "ask": "460323.74",
+      "bid": "312801.05",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:27:26.345Z"
+    "timestamp": "2025-01-09T14:27:27.351Z"
   }
 }
