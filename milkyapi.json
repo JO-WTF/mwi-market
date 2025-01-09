@@ -1257,11 +1257,11 @@
     },
     "Dragon Fruit Gummy": {
       "ask": "760.00",
-      "bid": "732.52",
+      "bid": "720.31",
       "vendor": null
     },
     "Dragon Fruit Yogurt": {
-      "ask": "1100.00",
+      "ask": "1097.37",
       "bid": "1000.00",
       "vendor": null
     },
@@ -1726,7 +1726,7 @@
       "vendor": 60000
     },
     "Gummy": {
-      "ask": "120.78",
+      "ask": "122.33",
       "bid": "6.00",
       "vendor": null
     },
@@ -2166,7 +2166,7 @@
       "vendor": null
     },
     "Mooberry Cake": {
-      "ask": "1130.87",
+      "ask": "1137.62",
       "bid": "900.00",
       "vendor": null
     },
@@ -2981,7 +2981,7 @@
       "vendor": null
     },
     "Spaceberry Cake": {
-      "ask": "1600.00",
+      "ask": "1550.00",
       "bid": "1500.00",
       "vendor": null
     },
@@ -3036,7 +3036,7 @@
       "vendor": null
     },
     "Star Fruit Gummy": {
-      "ask": "1241.26",
+      "ask": "1244.87",
       "bid": "1000.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-09T18:05:49.767Z"
+  "time": "2025-01-09T18:11:50.223Z"
 }
