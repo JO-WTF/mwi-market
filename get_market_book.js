@@ -274,86 +274,13 @@
       if (!isWebSocketConnected && websocketUrl) {
         connectWebSocket(websocketUrl); // 自动连接 WebSocket
       }
-    
+
       if (ws && ws.readyState === WebSocket.OPEN) {
-        const itemsArray = Array.from(collectedLabels);
-        let index = 0;
-        const interval = setInterval(() => {
-          if (index < itemsArray.length) {
-            const itemName = itemsArray[index];
-            const requestPayload = {
-              type: "get_market_item_order_books",
-              getMarketItemOrderBooksData: {
-                itemHrid: `/items/${itemName}`,
-              },
-            };
-    
-            // 通过WebSocket发送请求
-            console.log(`通过 WebSocket 发送请求 ${itemName}: `, requestPayload);
-            ws.send(JSON.stringify(requestPayload));
-            index++;
-          } else {
-            clearInterval(interval); // 停止请求
-            console.log("所有请求已发送完毕");
-    
-            // 获取 base market book
-            fetch("https://raw.githubusercontent.com/holychikenz/MWIApi/main/milkyapi.json")
-              .then((response) => response.json())
-              .then((baseMarketBook) => {
-                // 确保 baseMarketBook 格式正确
-                if (!baseMarketBook.market) {
-                  baseMarketBook.market = {};
-                }
-                if (!baseMarketBook.time) {
-                  baseMarketBook.time = "";
-                }
-    
-                // 更新 base market book
-                Object.keys(marketPrices).forEach((itemName) => {
-                  if (baseMarketBook.market[itemName]) {
-                    baseMarketBook.market[itemName] = {
-                      ...baseMarketBook.market[itemName],
-                      ...marketPrices[itemName],
-                    };
-                  } else {
-                    baseMarketBook.market[itemName] = marketPrices[itemName];
-                  }
-                });
-    
-                // 更新时间戳
-                baseMarketBook.time = new Date().toISOString();
-    
-                // 发送更新后的数据到API
-                fetch("https://mwi-market.vercel.app/api/upload_market_book", {
-                  method: "POST",
-                  headers: {
-                    "Content-Type": "application/json",
-                  },
-                  body: JSON.stringify(baseMarketBook),
-                })
-                  .then((response) => response.json())
-                  .then((data) => {
-                    console.log("数据已成功发送到API: ", data);
-    
-                    // 每隔3分钟重复采集和发送的过程
-                    setTimeout(() => {
-                      collectAndSendData();
-                    }, 180000); // 3分钟
-                  })
-                  .catch((error) =>
-                    console.error("发送数据到API时出错: ", error)
-                  );
-              })
-              .catch((error) =>
-                console.error("获取 base market book 时出错: ", error)
-              );
-          }
-        }, 500); // 5秒间隔发送请求
+        sendWebSocketRequests();
       } else {
         console.log("WebSocket未连接");
       }
     });
-    
 
     // 将元素添加到页面
     urlInputContainer.appendChild(urlInput);
@@ -366,58 +293,80 @@
     document.body.appendChild(container);
   }
 
-  // 函数：采集和发送数据
-  function collectAndSendData() {
-    // 依次通过WebSocket发送请求
-    if (ws && ws.readyState === WebSocket.OPEN) {
-      const itemsArray = Array.from(collectedLabels);
-      let index = 0;
-      const interval = setInterval(() => {
-        if (index < itemsArray.length) {
-          const itemName = itemsArray[index].toLowerCase().replace(/\s+/g, "_"); // 转为小写并替换空格为_
-          const requestPayload = {
-            type: "get_market_item_order_books",
-            getMarketItemOrderBooksData: {
-              itemHrid: `/items/${itemName}`,
-            },
-          };
+  function sendWebSocketRequests() {
+    const itemsArray = Array.from(collectedLabels);
+    let index = 0;
+    const interval = setInterval(() => {
+      if (index < itemsArray.length) {
+        const itemName = itemsArray[index];
+        const requestPayload = {
+          type: "get_market_item_order_books",
+          getMarketItemOrderBooksData: {
+            itemHrid: `/items/${itemName}`,
+          },
+        };
 
-          // 通过WebSocket发送请求
-          console.log(`通过 WebSocket 发送请求 ${itemName}: `, requestPayload);
-          ws.send(JSON.stringify(requestPayload));
-          index++;
-        } else {
-          clearInterval(interval); // 停止请求
-          console.log("所有请求已发送完毕");
+        // 通过WebSocket发送请求
+        console.log(`通过 WebSocket 发送请求 ${itemName}: `, requestPayload);
+        ws.send(JSON.stringify(requestPayload));
+        index++;
+      } else {
+        clearInterval(interval); // 停止请求
+        console.log("所有请求已发送完毕");
 
-          // 发送更新后的数据到API
-          if (window.updatedMarketBook) {
-            fetch(
-              "https://mwi-market-git-main-jo-wtfs-projects.vercel.app/api/upload_market_book",
-              {
-                method: "POST",
-                headers: {
-                  "Content-Type": "application/json",
-                },
-                body: JSON.stringify(window.updatedMarketBook),
+        // 获取 base market book
+        fetch("https://raw.githubusercontent.com/holychikenz/MWIApi/main/milkyapi.json")
+          .then((response) => response.json())
+          .then((baseMarketBook) => {
+            // 确保 baseMarketBook 格式正确
+            if (!baseMarketBook.market) {
+              baseMarketBook.market = {};
+            }
+            if (!baseMarketBook.time) {
+              baseMarketBook.time = "";
+            }
+
+            // 更新 base market book
+            Object.keys(marketPrices).forEach((itemName) => {
+              if (baseMarketBook.market[itemName]) {
+                baseMarketBook.market[itemName] = {
+                  ...baseMarketBook.market[itemName],
+                  ...marketPrices[itemName],
+                };
+              } else {
+                baseMarketBook.market[itemName] = marketPrices[itemName];
               }
-            )
+            });
+
+            // 更新时间戳
+            baseMarketBook.time = new Date().toISOString();
+
+            // 发送更新后的数据到API
+            fetch("https://mwi-market.vercel.app/api/upload_market_book", {
+              method: "POST",
+              headers: {
+                "Content-Type": "application/json",
+              },
+              body: JSON.stringify(baseMarketBook),
+            })
               .then((response) => response.json())
               .then((data) => {
                 console.log("数据已成功发送到API: ", data);
 
                 // 每隔3分钟重复采集和发送的过程
-                setTimeout(() => {
-                  collectAndSendData();
+                setInterval(() => {
+                  sendWebSocketRequests();
                 }, 180000); // 3分钟
               })
-              .catch((error) => console.error("发送数据到API时出错: ", error));
-          }
-        }
-      }, 500); // 5秒间隔发送请求
-    } else {
-      console.log("WebSocket未连接");
-    }
+              .catch((error) =>
+                console.error("发送数据到API时出错: ", error)
+              );
+          })
+          .catch((error) =>
+            console.error("获取 base market book 时出错: ", error)
+          );
+      }
+    }, 500); // 5秒间隔发送请求
   }
 
   // 页面加载后创建UI
