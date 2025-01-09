@@ -54,9 +54,24 @@
       "ask": "800.00",
       "bid": "700.00",
       "vendor": null
+    },
+    "burble_cheese": {
+      "ask": "780.00",
+      "bid": "720.00",
+      "vendor": null
+    },
+    "crimson_cheese": {
+      "ask": "976.62",
+      "bid": "860.00",
+      "vendor": null
+    },
+    "rainbow_cheese": {
+      "ask": "1100.00",
+      "bid": "980.00",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:38.330Z"
+    "timestamp": "2025-01-09T14:39:39.827Z"
   }
 }
