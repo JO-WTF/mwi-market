@@ -51,19 +51,19 @@
       "vendor": 8000
     },
     "Apple": {
-      "ask": 15,
-      "bid": 9,
-      "vendor": 3
+      "ask": "15.00",
+      "bid": "9.00",
+      "vendor": null
     },
     "Apple Gummy": {
-      "ask": 12,
-      "bid": 10,
-      "vendor": 10
+      "ask": "12.00",
+      "bid": "10.00",
+      "vendor": null
     },
     "Apple Yogurt": {
-      "ask": 500,
-      "bid": 200,
-      "vendor": 10
+      "ask": "940.46",
+      "bid": "156.33",
+      "vendor": null
     },
     "Aqua Arrow": {
       "ask": 37000,
@@ -406,19 +406,19 @@
       "vendor": 16
     },
     "Blackberry": {
-      "ask": 49,
-      "bid": 44,
-      "vendor": 4
+      "ask": "49.00",
+      "bid": "44.00",
+      "vendor": null
     },
     "Blackberry Cake": {
-      "ask": 940,
-      "bid": 410,
-      "vendor": 20
+      "ask": "3598.97",
+      "bid": "352.69",
+      "vendor": null
     },
     "Blackberry Donut": {
-      "ask": 1150,
-      "bid": 120,
-      "vendor": 20
+      "ask": "1150.00",
+      "bid": "120.00",
+      "vendor": null
     },
     "Blessed Tea": {
       "ask": 2650,
@@ -431,19 +431,19 @@
       "vendor": 10000
     },
     "Blueberry": {
-      "ask": 64,
-      "bid": 43,
-      "vendor": 2
+      "ask": "64.00",
+      "bid": "43.00",
+      "vendor": null
     },
     "Blueberry Cake": {
-      "ask": 500,
-      "bid": 265,
-      "vendor": 10
+      "ask": "500.00",
+      "bid": "159.47",
+      "vendor": null
     },
     "Blueberry Donut": {
-      "ask": 480,
-      "bid": 40,
-      "vendor": 10
+      "ask": "489.89",
+      "bid": "40.00",
+      "vendor": null
     },
     "Branch Of Insight": {
       "ask": 22500000,
@@ -1241,29 +1241,29 @@
       "vendor": 3000000
     },
     "Dodocamel Plume": {
-      "ask": 4900000,
-      "bid": 4700000,
-      "vendor": 40000
+      "ask": "5247058.82",
+      "bid": "4226785.71",
+      "vendor": null
     },
     "Donut": {
-      "ask": 140,
-      "bid": 10,
-      "vendor": 5
+      "ask": "140.00",
+      "bid": "10.00",
+      "vendor": null
     },
     "Dragon Fruit": {
-      "ask": 165,
-      "bid": 155,
-      "vendor": 18
+      "ask": "165.00",
+      "bid": "150.00",
+      "vendor": null
     },
     "Dragon Fruit Gummy": {
-      "ask": 780,
-      "bid": 740,
-      "vendor": 50
+      "ask": "760.00",
+      "bid": "732.52",
+      "vendor": null
     },
     "Dragon Fruit Yogurt": {
-      "ask": 1100,
-      "bid": 1050,
-      "vendor": 50
+      "ask": "1100.00",
+      "bid": "1050.00",
+      "vendor": null
     },
     "Earrings Of Armor": {
       "ask": 7200000,
@@ -1726,9 +1726,9 @@
       "vendor": 60000
     },
     "Gummy": {
-      "ask": 100,
-      "bid": 6,
-      "vendor": 5
+      "ask": "119.65",
+      "bid": "6.00",
+      "vendor": null
     },
     "Guzzling Energy": {
       "ask": 34000000,
@@ -2101,19 +2101,19 @@
       "vendor": 60000
     },
     "Marsberry": {
-      "ask": 120,
-      "bid": 100,
-      "vendor": 12
+      "ask": "120.00",
+      "bid": "105.00",
+      "vendor": null
     },
     "Marsberry Cake": {
-      "ask": 1250,
-      "bid": 1150,
-      "vendor": 50
+      "ask": "1250.00",
+      "bid": "1150.00",
+      "vendor": null
     },
     "Marsberry Donut": {
-      "ask": 740,
-      "bid": 720,
-      "vendor": 50
+      "ask": "740.00",
+      "bid": "720.00",
+      "vendor": null
     },
     "Medium Artisan's Crate": {
       "ask": -1,
@@ -2161,19 +2161,19 @@
       "vendor": 200000
     },
     "Mooberry": {
-      "ask": 160,
-      "bid": 150,
-      "vendor": 8
+      "ask": "160.00",
+      "bid": "145.00",
+      "vendor": null
     },
     "Mooberry Cake": {
-      "ask": 1100,
-      "bid": 900,
-      "vendor": 40
+      "ask": "1130.87",
+      "bid": "900.00",
+      "vendor": null
     },
     "Mooberry Donut": {
-      "ask": 700,
-      "bid": 580,
-      "vendor": 40
+      "ask": "730.70",
+      "bid": "580.00",
+      "vendor": null
     },
     "Moolong Tea Leaf": {
       "ask": 35,
@@ -2206,14 +2206,14 @@
       "vendor": 60000
     },
     "Orange": {
-      "ask": 7,
-      "bid": 6,
-      "vendor": 6
+      "ask": "7.00",
+      "bid": "6.00",
+      "vendor": null
     },
     "Orange Gummy": {
-      "ask": 39,
-      "bid": 21,
-      "vendor": 20
+      "ask": "39.00",
+      "bid": "21.00",
+      "vendor": null
     },
     "Orange Key Fragment": {
       "ask": 840000,
@@ -2221,9 +2221,9 @@
       "vendor": 50000
     },
     "Orange Yogurt": {
-      "ask": 860,
-      "bid": 580,
-      "vendor": 20
+      "ask": "873.16",
+      "bid": "540.44",
+      "vendor": null
     },
     "Panda Fluff": {
       "ask": 50000,
@@ -2236,19 +2236,19 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": 45,
-      "bid": 37,
-      "vendor": 12
+      "ask": "45.00",
+      "bid": "37.00",
+      "vendor": null
     },
     "Peach Gummy": {
-      "ask": 250,
-      "bid": 230,
-      "vendor": 40
+      "ask": "250.00",
+      "bid": "225.00",
+      "vendor": null
     },
     "Peach Yogurt": {
-      "ask": 860,
-      "bid": 780,
-      "vendor": 40
+      "ask": "876.32",
+      "bid": "780.00",
+      "vendor": null
     },
     "Pearl": {
       "ask": 14000,
@@ -2296,19 +2296,19 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": 50,
-      "bid": 27,
-      "vendor": 9
+      "ask": "50.00",
+      "bid": "27.00",
+      "vendor": null
     },
     "Plum Gummy": {
-      "ask": 80,
-      "bid": 46,
-      "vendor": 30
+      "ask": "78.00",
+      "bid": "44.61",
+      "vendor": null
     },
     "Plum Yogurt": {
-      "ask": 760,
-      "bid": 500,
-      "vendor": 30
+      "ask": "777.11",
+      "bid": "500.00",
+      "vendor": null
     },
     "Poke": {
       "ask": 3000,
@@ -2976,19 +2976,19 @@
       "vendor": 400000
     },
     "Spaceberry": {
-      "ask": 155,
-      "bid": 150,
-      "vendor": 20
+      "ask": "155.00",
+      "bid": "150.00",
+      "vendor": null
     },
     "Spaceberry Cake": {
-      "ask": 1600,
-      "bid": 1550,
-      "vendor": 75
+      "ask": "1600.00",
+      "bid": "1550.00",
+      "vendor": null
     },
     "Spaceberry Donut": {
-      "ask": 1300,
-      "bid": 1200,
-      "vendor": 75
+      "ask": "1300.00",
+      "bid": "1200.00",
+      "vendor": null
     },
     "Spacia Coffee Bean": {
       "ask": 820,
@@ -3031,19 +3031,19 @@
       "vendor": 100
     },
     "Star Fruit": {
-      "ask": 380,
-      "bid": 360,
-      "vendor": 30
+      "ask": "380.00",
+      "bid": "360.00",
+      "vendor": null
     },
     "Star Fruit Gummy": {
-      "ask": 1300,
-      "bid": 1000,
-      "vendor": 75
+      "ask": "1300.00",
+      "bid": "1000.00",
+      "vendor": null
     },
     "Star Fruit Yogurt": {
-      "ask": 1450,
-      "bid": 1400,
-      "vendor": 75
+      "ask": "1500.00",
+      "bid": "1400.00",
+      "vendor": null
     },
     "Steady Shot": {
       "ask": 165000,
@@ -3056,19 +3056,19 @@
       "vendor": 80000
     },
     "Strawberry": {
-      "ask": 115,
-      "bid": 100,
-      "vendor": 6
+      "ask": "115.00",
+      "bid": "100.00",
+      "vendor": null
     },
     "Strawberry Cake": {
-      "ask": 1900,
-      "bid": 540,
-      "vendor": 30
+      "ask": "1900.00",
+      "bid": "525.83",
+      "vendor": null
     },
     "Strawberry Donut": {
-      "ask": 480,
-      "bid": 245,
-      "vendor": 30
+      "ask": "480.00",
+      "bid": "245.00",
+      "vendor": null
     },
     "Stunning Blow": {
       "ask": 240000,
@@ -3636,170 +3636,10 @@
       "vendor": 144
     },
     "Yogurt": {
-      "ask": 840,
-      "bid": 27,
-      "vendor": 5
-    },
-    "blueberry": {
-      "ask": "64.00",
-      "bid": "43.00",
-      "vendor": null
-    },
-    "blackberry": {
-      "ask": "49.00",
-      "bid": "44.00",
-      "vendor": null
-    },
-    "strawberry": {
-      "ask": "115.00",
-      "bid": "100.00",
-      "vendor": null
-    },
-    "mooberry": {
-      "ask": "160.00",
-      "bid": "145.00",
-      "vendor": null
-    },
-    "marsberry": {
-      "ask": "120.00",
-      "bid": "100.00",
-      "vendor": null
-    },
-    "spaceberry": {
-      "ask": "155.00",
-      "bid": "150.00",
-      "vendor": null
-    },
-    "apple": {
-      "ask": "15.00",
-      "bid": "9.00",
-      "vendor": null
-    },
-    "orange": {
-      "ask": "7.00",
-      "bid": "6.00",
-      "vendor": null
-    },
-    "plum": {
-      "ask": "50.00",
+      "ask": "859.42",
       "bid": "27.00",
-      "vendor": null
-    },
-    "peach": {
-      "ask": "45.00",
-      "bid": "37.00",
-      "vendor": null
-    },
-    "dragon_fruit": {
-      "ask": "165.00",
-      "bid": "150.00",
-      "vendor": null
-    },
-    "star_fruit": {
-      "ask": "380.00",
-      "bid": "360.00",
-      "vendor": null
-    },
-    "dodocamel_plume": {
-      "ask": "5247058.82",
-      "bid": "4226785.71",
-      "vendor": null
-    },
-    "donut": {
-      "ask": "140.00",
-      "bid": "10.00",
-      "vendor": null
-    },
-    "blueberry_donut": {
-      "ask": "489.89",
-      "bid": "40.00",
-      "vendor": null
-    },
-    "blackberry_donut": {
-      "ask": "1150.00",
-      "bid": "120.00",
-      "vendor": null
-    },
-    "strawberry_donut": {
-      "ask": "480.00",
-      "bid": "245.00",
-      "vendor": null
-    },
-    "mooberry_donut": {
-      "ask": "730.70",
-      "bid": "580.00",
-      "vendor": null
-    },
-    "marsberry_donut": {
-      "ask": "740.00",
-      "bid": "720.00",
-      "vendor": null
-    },
-    "spaceberry_donut": {
-      "ask": "1300.00",
-      "bid": "1200.00",
-      "vendor": null
-    },
-    "blueberry_cake": {
-      "ask": "500.00",
-      "bid": "159.47",
-      "vendor": null
-    },
-    "blackberry_cake": {
-      "ask": "3598.97",
-      "bid": "352.69",
-      "vendor": null
-    },
-    "strawberry_cake": {
-      "ask": "1900.00",
-      "bid": "525.83",
-      "vendor": null
-    },
-    "mooberry_cake": {
-      "ask": "1130.87",
-      "bid": "900.00",
-      "vendor": null
-    },
-    "marsberry_cake": {
-      "ask": "1250.00",
-      "bid": "1150.00",
-      "vendor": null
-    },
-    "spaceberry_cake": {
-      "ask": "1600.00",
-      "bid": "1550.00",
-      "vendor": null
-    },
-    "gummy": {
-      "ask": "119.65",
-      "bid": "6.00",
-      "vendor": null
-    },
-    "apple_gummy": {
-      "ask": "12.00",
-      "bid": "10.00",
-      "vendor": null
-    },
-    "orange_gummy": {
-      "ask": "39.00",
-      "bid": "21.00",
-      "vendor": null
-    },
-    "dragon_fruit_gummy": {
-      "ask": "760.00",
-      "bid": "732.52",
-      "vendor": null
-    },
-    "apple_yogurt": {
-      "ask": "940.46",
-      "bid": "156.33",
-      "vendor": null
-    },
-    "peach_yogurt": {
-      "ask": "876.32",
-      "bid": "780.00",
       "vendor": null
     }
   },
-  "time": "2025-01-09T16:51:48.490Z"
+  "time": "2025-01-09T16:53:21.745Z"
 }
