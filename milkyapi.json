@@ -39,9 +39,14 @@
       "ask": "1022812.50",
       "bid": "868791.21",
       "vendor": null
+    },
+    "burning_key_fragment": {
+      "ask": "1278672.99",
+      "bid": "1044444.44",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:27:25.288Z"
+    "timestamp": "2025-01-09T14:27:25.839Z"
   }
 }
