@@ -44,9 +44,19 @@
       "ask": "294.31",
       "bid": "265.00",
       "vendor": null
+    },
+    "verdant_cheese": {
+      "ask": "639.89",
+      "bid": "540.00",
+      "vendor": null
+    },
+    "azure_cheese": {
+      "ask": "800.00",
+      "bid": "700.00",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:37.352Z"
+    "timestamp": "2025-01-09T14:39:38.330Z"
   }
 }
