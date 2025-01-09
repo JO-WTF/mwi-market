@@ -119,9 +119,19 @@
       "ask": "500.00",
       "bid": "420.00",
       "vendor": null
+    },
+    "cedar_lumber": {
+      "ask": "940.00",
+      "bid": "900.00",
+      "vendor": null
+    },
+    "purpleheart_lumber": {
+      "ask": "1380.13",
+      "bid": "1205.35",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:44.829Z"
+    "timestamp": "2025-01-09T14:39:45.837Z"
   }
 }
