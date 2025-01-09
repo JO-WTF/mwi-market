@@ -164,9 +164,24 @@
       "ask": "135.00",
       "bid": "86.00",
       "vendor": null
+    },
+    "radiant_fiber": {
+      "ask": "520.00",
+      "bid": "480.00",
+      "vendor": null
+    },
+    "bamboo_fabric": {
+      "ask": "280.00",
+      "bid": "215.00",
+      "vendor": null
+    },
+    "egg": {
+      "ask": "35.00",
+      "bid": "31.00",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:53.331Z"
+    "timestamp": "2025-01-09T14:39:57.850Z"
   }
 }
