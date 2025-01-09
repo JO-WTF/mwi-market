@@ -46,7 +46,10 @@
         const message = JSON.parse(event.data); // 解析收到的消息
         if (message.type === "market_item_order_books_updated") {
           const marketData = message.marketItemOrderBooks;
-          const itemName = marketData.itemHrid.split("/").pop(); // 从URL提取Item名称
+          let itemName = marketData.itemHrid.split("/").pop(); // 从URL提取Item名称
+          // 用空格替换_，并将每个单词的首字母转换为大写
+          itemName = itemName.replace(/_/g, " ").replace(/\b\w/g, (char) => char.toUpperCase());
+
 
           // 目标数量
           const targetQuantity = 2000;
@@ -91,6 +94,8 @@
             bid: averageBidPrice.toFixed(2),
             vendor: null, // 假设vendor价格为108
           };
+
+          console.log(`商品 ${itemName} 的价格信息: `, marketPrices[itemName]);
 
           // 输出整合后的价格信息
           const consolidatedMarketData = {
@@ -294,7 +299,15 @@
   }
 
   function sendWebSocketRequests() {
-    const itemsArray = Array.from(collectedLabels);
+    const keywords = [
+      "Donut", "Cake", "Gummy", "Yogurt", "Apple", "Orange", "Plum", "Peach",
+      "Fruit", "Blueberry", "Blackberry", "Strawberry", "Mooberry", "Marsberry", "Spaceberry"
+    ];
+
+    const itemsArray = Array.from(collectedLabels).filter(itemName =>
+      keywords.some(keyword => itemName.includes(keyword))
+    );
+
     let index = 0;
     const interval = setInterval(() => {
       if (index < itemsArray.length) {
@@ -302,7 +315,7 @@
         const requestPayload = {
           type: "get_market_item_order_books",
           getMarketItemOrderBooksData: {
-            itemHrid: `/items/${itemName}`,
+            itemHrid: `/items/${itemName}`.toLowerCase().replace(/\s/g, "_"),
           },
         };
 
@@ -353,10 +366,9 @@
               .then((data) => {
                 console.log("数据已成功发送到API: ", data);
 
-                // 每隔3分钟重复采集和发送的过程
                 setInterval(() => {
                   sendWebSocketRequests();
-                }, 180000); // 3分钟
+                }, 100000);
               })
               .catch((error) =>
                 console.error("发送数据到API时出错: ", error)
