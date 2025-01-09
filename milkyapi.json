@@ -44,9 +44,14 @@
       "ask": "1278672.99",
       "bid": "1044444.44",
       "vendor": null
+    },
+    "chimerical_entry_key": {
+      "ask": "406754.97",
+      "bid": "316774.19",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:27:25.839Z"
+    "timestamp": "2025-01-09T14:27:26.345Z"
   }
 }
