@@ -14,9 +14,39 @@
       "ask": "140.00",
       "bid": "110.00",
       "vendor": null
+    },
+    "azure_milk": {
+      "ask": "225.00",
+      "bid": "170.00",
+      "vendor": null
+    },
+    "burble_milk": {
+      "ask": "265.00",
+      "bid": "225.00",
+      "vendor": null
+    },
+    "crimson_milk": {
+      "ask": "330.00",
+      "bid": "295.00",
+      "vendor": null
+    },
+    "rainbow_milk": {
+      "ask": "370.00",
+      "bid": "360.00",
+      "vendor": null
+    },
+    "holy_milk": {
+      "ask": "540.00",
+      "bid": "500.00",
+      "vendor": null
+    },
+    "cheese": {
+      "ask": "294.31",
+      "bid": "265.00",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:34.331Z"
+    "timestamp": "2025-01-09T14:39:37.352Z"
   }
 }
