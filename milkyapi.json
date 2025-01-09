@@ -437,7 +437,7 @@
     },
     "Blueberry Cake": {
       "ask": "500.00",
-      "bid": "159.47",
+      "bid": "157.68",
       "vendor": null
     },
     "Blueberry Donut": {
@@ -2161,7 +2161,7 @@
       "vendor": 200000
     },
     "Mooberry": {
-      "ask": "160.00",
+      "ask": "159.99",
       "bid": "145.00",
       "vendor": null
     },
@@ -2296,7 +2296,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": "50.00",
+      "ask": "49.95",
       "bid": "27.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-09T18:23:51.049Z"
+  "time": "2025-01-09T18:28:55.114Z"
 }
