@@ -29,9 +29,14 @@
       "ask": "685689.28",
       "bid": "521265.18",
       "vendor": null
+    },
+    "stone_key_fragment": {
+      "ask": "1723760.93",
+      "bid": "1474429.97",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:27:24.300Z"
+    "timestamp": "2025-01-09T14:27:24.785Z"
   }
 }
