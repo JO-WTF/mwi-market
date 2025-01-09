@@ -9,9 +9,29 @@
       "ask": "399152.54",
       "bid": "341476.15",
       "vendor": null
+    },
+    "purple_key_fragment": {
+      "ask": "407313.69",
+      "bid": "335648.26",
+      "vendor": null
+    },
+    "white_key_fragment": {
+      "ask": "1069634.15",
+      "bid": "875267.18",
+      "vendor": null
+    },
+    "orange_key_fragment": {
+      "ask": "891205.21",
+      "bid": "580860.76",
+      "vendor": null
+    },
+    "brown_key_fragment": {
+      "ask": "685689.28",
+      "bid": "521265.18",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:27:22.289Z"
+    "timestamp": "2025-01-09T14:27:24.300Z"
   }
 }
