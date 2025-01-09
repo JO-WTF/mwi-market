@@ -149,9 +149,24 @@
       "ask": "17.00",
       "bid": "14.00",
       "vendor": null
+    },
+    "rough_leather": {
+      "ask": "717.95",
+      "bid": "471.99",
+      "vendor": null
+    },
+    "beast_leather": {
+      "ask": "880.00",
+      "bid": "781.31",
+      "vendor": null
+    },
+    "flax": {
+      "ask": "135.00",
+      "bid": "86.00",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:48.829Z"
+    "timestamp": "2025-01-09T14:39:53.331Z"
   }
 }
