@@ -280,9 +280,7 @@
         let index = 0;
         const interval = setInterval(() => {
           if (index < itemsArray.length) {
-            const itemName = itemsArray[index]
-              .toLowerCase()
-              .replace(/\s+/g, "_"); // 转为小写并替换空格为_
+            const itemName = itemsArray[index];
             const requestPayload = {
               type: "get_market_item_order_books",
               getMarketItemOrderBooksData: {
