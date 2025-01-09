@@ -61,7 +61,7 @@
       "vendor": null
     },
     "Apple Yogurt": {
-      "ask": "940.46",
+      "ask": "746.45",
       "bid": "147.44",
       "vendor": null
     },
@@ -2107,7 +2107,7 @@
     },
     "Marsberry Cake": {
       "ask": "1250.00",
-      "bid": "1162.39",
+      "bid": "1161.66",
       "vendor": null
     },
     "Marsberry Donut": {
@@ -2246,7 +2246,7 @@
       "vendor": null
     },
     "Peach Yogurt": {
-      "ask": "879.93",
+      "ask": "880.00",
       "bid": "722.89",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-09T19:00:49.486Z"
+  "time": "2025-01-09T19:03:49.601Z"
 }
