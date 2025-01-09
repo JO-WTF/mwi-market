@@ -1726,7 +1726,7 @@
       "vendor": 60000
     },
     "Gummy": {
-      "ask": "119.65",
+      "ask": "119.27",
       "bid": "6.00",
       "vendor": null
     },
@@ -2171,7 +2171,7 @@
       "vendor": null
     },
     "Mooberry Donut": {
-      "ask": "730.70",
+      "ask": "794.96",
       "bid": "580.00",
       "vendor": null
     },
@@ -2987,7 +2987,7 @@
     },
     "Spaceberry Donut": {
       "ask": "1300.00",
-      "bid": "1200.00",
+      "bid": "1150.00",
       "vendor": null
     },
     "Spacia Coffee Bean": {
@@ -3062,7 +3062,7 @@
     },
     "Strawberry Cake": {
       "ask": "1900.00",
-      "bid": "523.81",
+      "bid": "522.77",
       "vendor": null
     },
     "Strawberry Donut": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-09T16:57:48.297Z"
+  "time": "2025-01-09T17:13:20.553Z"
 }
