@@ -129,9 +129,29 @@
       "ask": "1380.13",
       "bid": "1205.35",
       "vendor": null
+    },
+    "ginkgo_lumber": {
+      "ask": "1200.00",
+      "bid": "1150.00",
+      "vendor": null
+    },
+    "redwood_lumber": {
+      "ask": "2000.00",
+      "bid": "920.00",
+      "vendor": null
+    },
+    "arcane_lumber": {
+      "ask": "2150.00",
+      "bid": "2100.00",
+      "vendor": null
+    },
+    "gobo_hide": {
+      "ask": "17.00",
+      "bid": "14.00",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:45.837Z"
+    "timestamp": "2025-01-09T14:39:48.829Z"
   }
 }
