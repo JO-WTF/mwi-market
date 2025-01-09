@@ -1,77 +1,12 @@
 {
   "market": {
-    "blue_key_fragment": {
-      "ask": "638857.14",
-      "bid": "447913.85",
-      "vendor": null
-    },
-    "green_key_fragment": {
-      "ask": "399152.54",
-      "bid": "341476.15",
-      "vendor": null
-    },
-    "purple_key_fragment": {
-      "ask": "407313.69",
-      "bid": "335648.26",
-      "vendor": null
-    },
-    "white_key_fragment": {
-      "ask": "1069634.15",
-      "bid": "875267.18",
-      "vendor": null
-    },
-    "orange_key_fragment": {
-      "ask": "891205.21",
-      "bid": "580860.76",
-      "vendor": null
-    },
-    "brown_key_fragment": {
-      "ask": "685689.28",
-      "bid": "521265.18",
-      "vendor": null
-    },
-    "stone_key_fragment": {
-      "ask": "1723760.93",
-      "bid": "1474429.97",
-      "vendor": null
-    },
-    "dark_key_fragment": {
-      "ask": "1022812.50",
-      "bid": "868791.21",
-      "vendor": null
-    },
-    "burning_key_fragment": {
-      "ask": "1278672.99",
-      "bid": "1044444.44",
-      "vendor": null
-    },
-    "chimerical_entry_key": {
-      "ask": "406754.97",
-      "bid": "316774.19",
-      "vendor": null
-    },
-    "chimerical_chest_key": {
-      "ask": "1914159.29",
-      "bid": "1372123.89",
-      "vendor": null
-    },
-    "sinister_entry_key": {
-      "ask": "460323.74",
-      "bid": "312801.05",
-      "vendor": null
-    },
-    "sinister_chest_key": {
-      "ask": "2683720.93",
-      "bid": "2402882.21",
-      "vendor": null
-    },
-    "enchanted_entry_key": {
-      "ask": "697142.86",
-      "bid": "407466.22",
+    "bag_of_10_cowbells": {
+      "ask": "476554.32",
+      "bid": "397597.71",
       "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:27:28.301Z"
+    "timestamp": "2025-01-09T14:39:33.348Z"
   }
 }
