@@ -59,9 +59,19 @@
       "ask": "460323.74",
       "bid": "312801.05",
       "vendor": null
+    },
+    "sinister_chest_key": {
+      "ask": "2683720.93",
+      "bid": "2402882.21",
+      "vendor": null
+    },
+    "enchanted_entry_key": {
+      "ask": "697142.86",
+      "bid": "407466.22",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:27:27.351Z"
+    "timestamp": "2025-01-09T14:27:28.301Z"
   }
 }
