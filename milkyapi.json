@@ -2211,7 +2211,7 @@
       "vendor": null
     },
     "Orange Gummy": {
-      "ask": "38.15",
+      "ask": "38.79",
       "bid": "21.00",
       "vendor": null
     },
@@ -2981,8 +2981,8 @@
       "vendor": null
     },
     "Spaceberry Cake": {
-      "ask": "1550.00",
-      "bid": "1500.00",
+      "ask": "1500.00",
+      "bid": "1450.00",
       "vendor": null
     },
     "Spaceberry Donut": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-09T19:12:50.279Z"
+  "time": "2025-01-09T19:13:57.921Z"
 }
