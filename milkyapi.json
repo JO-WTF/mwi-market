@@ -62,7 +62,7 @@
     },
     "Apple Yogurt": {
       "ask": "940.46",
-      "bid": "156.33",
+      "bid": "147.44",
       "vendor": null
     },
     "Aqua Arrow": {
@@ -412,7 +412,7 @@
     },
     "Blackberry Cake": {
       "ask": "3598.97",
-      "bid": "352.69",
+      "bid": "349.86",
       "vendor": null
     },
     "Blackberry Donut": {
@@ -1257,7 +1257,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": "760.00",
-      "bid": "720.31",
+      "bid": "720.00",
       "vendor": null
     },
     "Dragon Fruit Yogurt": {
@@ -2167,7 +2167,7 @@
     },
     "Mooberry Cake": {
       "ask": "1137.62",
-      "bid": "900.00",
+      "bid": "882.49",
       "vendor": null
     },
     "Mooberry Donut": {
@@ -2247,7 +2247,7 @@
     },
     "Peach Yogurt": {
       "ask": "877.03",
-      "bid": "780.00",
+      "bid": "722.89",
       "vendor": null
     },
     "Pearl": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-09T18:28:55.114Z"
+  "time": "2025-01-09T18:33:48.685Z"
 }
