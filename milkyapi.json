@@ -2171,7 +2171,7 @@
       "vendor": null
     },
     "Mooberry Donut": {
-      "ask": "794.96",
+      "ask": "795.11",
       "bid": "580.00",
       "vendor": null
     },
@@ -2302,11 +2302,11 @@
     },
     "Plum Gummy": {
       "ask": "78.00",
-      "bid": "44.61",
+      "bid": "44.00",
       "vendor": null
     },
     "Plum Yogurt": {
-      "ask": "777.11",
+      "ask": "772.09",
       "bid": "500.00",
       "vendor": null
     },
@@ -3036,13 +3036,13 @@
       "vendor": null
     },
     "Star Fruit Gummy": {
-      "ask": "1300.00",
+      "ask": "1250.00",
       "bid": "1000.00",
       "vendor": null
     },
     "Star Fruit Yogurt": {
-      "ask": "1500.00",
-      "bid": "1400.00",
+      "ask": "1498.46",
+      "bid": "1381.84",
       "vendor": null
     },
     "Steady Shot": {
@@ -3636,10 +3636,10 @@
       "vendor": 144
     },
     "Yogurt": {
-      "ask": "859.42",
+      "ask": "858.58",
       "bid": "27.00",
       "vendor": null
     }
   },
-  "time": "2025-01-09T17:13:26.280Z"
+  "time": "2025-01-09T17:17:10.030Z"
 }
