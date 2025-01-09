@@ -1,3 +1,12 @@
 {
-  "a": 1
+  "market": {
+    "blue_key_fragment": {
+      "ask": "638857.14",
+      "bid": "447913.85",
+      "vendor": null
+    }
+  },
+  "time": {
+    "timestamp": "2025-01-09T14:27:21.792Z"
+  }
 }
