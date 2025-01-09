@@ -12,7 +12,7 @@ app.use("*", async (c, next) => {
 
   // 如果是预检请求（OPTIONS），立即返回成功响应
   if (c.req.method === "OPTIONS") {
-    return c.text("", 204);
+    return c.text("", 200);
   }
 
   await next();
