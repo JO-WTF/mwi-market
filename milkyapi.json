@@ -4,9 +4,19 @@
       "ask": "476554.32",
       "bid": "397597.71",
       "vendor": null
+    },
+    "milk": {
+      "ask": "31.00",
+      "bid": "29.00",
+      "vendor": null
+    },
+    "verdant_milk": {
+      "ask": "140.00",
+      "bid": "110.00",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:39:33.348Z"
+    "timestamp": "2025-01-09T14:39:34.331Z"
   }
 }
