@@ -4,9 +4,14 @@
       "ask": "638857.14",
       "bid": "447913.85",
       "vendor": null
+    },
+    "green_key_fragment": {
+      "ask": "399152.54",
+      "bid": "341476.15",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:27:21.792Z"
+    "timestamp": "2025-01-09T14:27:22.289Z"
   }
 }
