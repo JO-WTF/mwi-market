@@ -3644,7 +3644,7 @@
     },
     "time": 1736432102.5059428,
     "bag_of_10_cowbells": {
-      "ask": "476570.54",
+      "ask": "476766.28",
       "bid": "399931.45",
       "vendor": null
     },
@@ -3652,9 +3652,524 @@
       "ask": "31.00",
       "bid": "29.00",
       "vendor": null
+    },
+    "verdant_milk": {
+      "ask": "140.00",
+      "bid": "110.00",
+      "vendor": null
+    },
+    "azure_milk": {
+      "ask": "225.00",
+      "bid": "170.00",
+      "vendor": null
+    },
+    "burble_milk": {
+      "ask": "265.00",
+      "bid": "225.00",
+      "vendor": null
+    },
+    "crimson_milk": {
+      "ask": "320.00",
+      "bid": "295.00",
+      "vendor": null
+    },
+    "rainbow_milk": {
+      "ask": "370.00",
+      "bid": "360.00",
+      "vendor": null
+    },
+    "holy_milk": {
+      "ask": "520.00",
+      "bid": "500.00",
+      "vendor": null
+    },
+    "cheese": {
+      "ask": "290.00",
+      "bid": "265.00",
+      "vendor": null
+    },
+    "verdant_cheese": {
+      "ask": "640.00",
+      "bid": "560.00",
+      "vendor": null
+    },
+    "azure_cheese": {
+      "ask": "800.00",
+      "bid": "700.00",
+      "vendor": null
+    },
+    "burble_cheese": {
+      "ask": "780.00",
+      "bid": "740.00",
+      "vendor": null
+    },
+    "crimson_cheese": {
+      "ask": "976.62",
+      "bid": "860.00",
+      "vendor": null
+    },
+    "rainbow_cheese": {
+      "ask": "1150.00",
+      "bid": "982.63",
+      "vendor": null
+    },
+    "holy_cheese": {
+      "ask": "1750.00",
+      "bid": "1600.00",
+      "vendor": null
+    },
+    "log": {
+      "ask": "62.00",
+      "bid": "34.00",
+      "vendor": null
+    },
+    "birch_log": {
+      "ask": "46.00",
+      "bid": "25.00",
+      "vendor": null
+    },
+    "cedar_log": {
+      "ask": "205.00",
+      "bid": "185.00",
+      "vendor": null
+    },
+    "purpleheart_log": {
+      "ask": "215.00",
+      "bid": "190.00",
+      "vendor": null
+    },
+    "ginkgo_log": {
+      "ask": "219.64",
+      "bid": "170.00",
+      "vendor": null
+    },
+    "redwood_log": {
+      "ask": "110.00",
+      "bid": "47.00",
+      "vendor": null
+    },
+    "arcane_log": {
+      "ask": "520.00",
+      "bid": "460.00",
+      "vendor": null
+    },
+    "lumber": {
+      "ask": "400.00",
+      "bid": "280.00",
+      "vendor": null
+    },
+    "birch_lumber": {
+      "ask": "500.00",
+      "bid": "420.00",
+      "vendor": null
+    },
+    "cedar_lumber": {
+      "ask": "940.00",
+      "bid": "900.00",
+      "vendor": null
+    },
+    "purpleheart_lumber": {
+      "ask": "1380.58",
+      "bid": "1203.87",
+      "vendor": null
+    },
+    "ginkgo_lumber": {
+      "ask": "1200.00",
+      "bid": "1150.00",
+      "vendor": null
+    },
+    "redwood_lumber": {
+      "ask": "1995.68",
+      "bid": "920.00",
+      "vendor": null
+    },
+    "arcane_lumber": {
+      "ask": "2150.00",
+      "bid": "2100.00",
+      "vendor": null
+    },
+    "gobo_hide": {
+      "ask": "18.00",
+      "bid": "14.00",
+      "vendor": null
+    },
+    "rough_leather": {
+      "ask": "700.00",
+      "bid": "471.99",
+      "vendor": null
+    },
+    "beast_leather": {
+      "ask": "880.00",
+      "bid": "781.31",
+      "vendor": null
+    },
+    "flax": {
+      "ask": "135.00",
+      "bid": "86.00",
+      "vendor": null
+    },
+    "radiant_fiber": {
+      "ask": "520.00",
+      "bid": "480.00",
+      "vendor": null
+    },
+    "bamboo_fabric": {
+      "ask": "280.00",
+      "bid": "215.00",
+      "vendor": null
+    },
+    "silk_fabric": {
+      "ask": "2300.00",
+      "bid": "1656.40",
+      "vendor": null
+    },
+    "egg": {
+      "ask": "35.00",
+      "bid": "31.00",
+      "vendor": null
+    },
+    "wheat": {
+      "ask": "60.00",
+      "bid": "45.00",
+      "vendor": null
+    },
+    "strawberry": {
+      "ask": "115.00",
+      "bid": "100.00",
+      "vendor": null
+    },
+    "spaceberry": {
+      "ask": "165.00",
+      "bid": "155.00",
+      "vendor": null
+    },
+    "plum": {
+      "ask": "52.00",
+      "bid": "27.00",
+      "vendor": null
+    },
+    "star_fruit": {
+      "ask": "380.00",
+      "bid": "360.00",
+      "vendor": null
+    },
+    "liberica_coffee_bean": {
+      "ask": "460.00",
+      "bid": "430.00",
+      "vendor": null
+    },
+    "spacia_coffee_bean": {
+      "ask": "820.00",
+      "bid": "780.00",
+      "vendor": null
+    },
+    "burble_tea_leaf": {
+      "ask": "42.00",
+      "bid": "33.00",
+      "vendor": null
+    },
+    "emp_tea_leaf": {
+      "ask": "737.88",
+      "bid": "660.00",
+      "vendor": null
+    },
+    "catalyst_of_transmutation": {
+      "ask": "12000.00",
+      "bid": "9800.00",
+      "vendor": null
+    },
+    "shoebill_feather": {
+      "ask": "69010.99",
+      "bid": "20000.00",
+      "vendor": null
+    },
+    "turtle_shell": {
+      "ask": "26673.23",
+      "bid": "5765.40",
+      "vendor": null
+    },
+    "centaur_hoof": {
+      "ask": "206751.97",
+      "bid": "88255.92",
+      "vendor": null
+    },
+    "goggles": {
+      "ask": "393696.58",
+      "bid": "110214.52",
+      "vendor": null
+    },
+    "icy_cloth": {
+      "ask": "56408.69",
+      "bid": "36330.42",
+      "vendor": null
+    },
+    "chrono_sphere": {
+      "ask": "680077.12",
+      "bid": "507314.49",
+      "vendor": null
+    },
+    "black_bear_fluff": {
+      "ask": "63620.00",
+      "bid": "41051.99",
+      "vendor": null
+    },
+    "red_panda_fluff": {
+      "ask": "554960.25",
+      "bid": "358750.00",
+      "vendor": null
+    },
+    "living_granite": {
+      "ask": "571005.22",
+      "bid": "453254.34",
+      "vendor": null
+    },
+    "infernal_ember": {
+      "ask": "654914.20",
+      "bid": "450000.00",
+      "vendor": null
+    },
+    "manticore_sting": {
+      "ask": "1955555.56",
+      "bid": "1738586.96",
+      "vendor": null
+    },
+    "griffin_talon": {
+      "ask": "2328571.43",
+      "bid": "1544444.44",
+      "vendor": null
+    },
+    "chaotic_chain": {
+      "ask": "5250000.00",
+      "bid": "3905555.56",
+      "vendor": null
+    },
+    "sundering_jewel": {
+      "ask": "8013333.33",
+      "bid": "506514.99",
+      "vendor": null
+    },
+    "branch_of_insight": {
+      "ask": "23821428.57",
+      "bid": "491115.49",
+      "vendor": null
+    },
+    "milking_essence": {
+      "ask": "285.00",
+      "bid": "265.00",
+      "vendor": null
+    },
+    "cheesesmithing_essence": {
+      "ask": "300.00",
+      "bid": "270.00",
+      "vendor": null
+    },
+    "cooking_essence": {
+      "ask": "318.06",
+      "bid": "300.00",
+      "vendor": null
+    },
+    "enhancing_essence": {
+      "ask": "1500.00",
+      "bid": "1400.00",
+      "vendor": null
+    },
+    "jungle_essence": {
+      "ask": "88.00",
+      "bid": "52.00",
+      "vendor": null
+    },
+    "sorcerer_essence": {
+      "ask": "139.98",
+      "bid": "115.00",
+      "vendor": null
+    },
+    "twilight_essence": {
+      "ask": "240.00",
+      "bid": "230.00",
+      "vendor": null
+    },
+    "sinister_essence": {
+      "ask": "800.00",
+      "bid": "780.00",
+      "vendor": null
+    },
+    "pearl": {
+      "ask": "14000.00",
+      "bid": "13500.00",
+      "vendor": null
+    },
+    "jade": {
+      "ask": "36136.50",
+      "bid": "33254.84",
+      "vendor": null
+    },
+    "sunstone": {
+      "ask": "553234.48",
+      "bid": "476173.97",
+      "vendor": null
+    },
+    "crushed_amber": {
+      "ask": "1350.00",
+      "bid": "1200.00",
+      "vendor": null
+    },
+    "crushed_amethyst": {
+      "ask": "2450.00",
+      "bid": "2116.84",
+      "vendor": null
+    },
+    "donut": {
+      "ask": "140.00",
+      "bid": "10.00",
+      "vendor": null
+    },
+    "strawberry_donut": {
+      "ask": "480.00",
+      "bid": "235.00",
+      "vendor": null
+    },
+    "spaceberry_donut": {
+      "ask": "1250.00",
+      "bid": "1150.00",
+      "vendor": null
+    },
+    "blackberry_cake": {
+      "ask": "3598.97",
+      "bid": "352.69",
+      "vendor": null
+    },
+    "marsberry_cake": {
+      "ask": "1250.00",
+      "bid": "1150.00",
+      "vendor": null
+    },
+    "apple_gummy": {
+      "ask": "13.00",
+      "bid": "10.00",
+      "vendor": null
+    },
+    "peach_gummy": {
+      "ask": "255.00",
+      "bid": "225.00",
+      "vendor": null
+    },
+    "yogurt": {
+      "ask": "826.60",
+      "bid": "27.00",
+      "vendor": null
+    },
+    "plum_yogurt": {
+      "ask": "777.11",
+      "bid": "500.00",
+      "vendor": null
+    },
+    "star_fruit_yogurt": {
+      "ask": "1500.00",
+      "bid": "1400.00",
+      "vendor": null
+    },
+    "woodcutting_tea": {
+      "ask": "980.00",
+      "bid": "620.00",
+      "vendor": null
+    },
+    "alchemy_tea": {
+      "ask": "1224.84",
+      "bid": "500.00",
+      "vendor": null
+    },
+    "crafting_tea": {
+      "ask": "6600.00",
+      "bid": "210.00",
+      "vendor": null
+    },
+    "super_foraging_tea": {
+      "ask": "3994.76",
+      "bid": "2000.00",
+      "vendor": null
+    },
+    "super_brewing_tea": {
+      "ask": "21873.57",
+      "bid": "1850.00",
+      "vendor": null
+    },
+    "super_cheesesmithing_tea": {
+      "ask": "12000.00",
+      "bid": "2001.23",
+      "vendor": null
+    },
+    "ultra_milking_tea": {
+      "ask": "16463.77",
+      "bid": "900.00",
+      "vendor": null
+    },
+    "ultra_cooking_tea": {
+      "ask": "9791.27",
+      "bid": "0.00",
+      "vendor": null
+    },
+    "ultra_tailoring_tea": {
+      "ask": "38930.80",
+      "bid": "3800.00",
+      "vendor": null
+    },
+    "wisdom_tea": {
+      "ask": "960.00",
+      "bid": "920.00",
+      "vendor": null
+    },
+    "artisan_tea": {
+      "ask": "2643.87",
+      "bid": "2454.55",
+      "vendor": null
+    },
+    "stamina_coffee": {
+      "ask": "540.00",
+      "bid": "432.80",
+      "vendor": null
+    },
+    "attack_coffee": {
+      "ask": "1150.00",
+      "bid": "282.06",
+      "vendor": null
+    },
+    "magic_coffee": {
+      "ask": "1150.00",
+      "bid": "980.00",
+      "vendor": null
+    },
+    "super_defense_coffee": {
+      "ask": "3800.00",
+      "bid": "3233.33",
+      "vendor": null
+    },
+    "super_ranged_coffee": {
+      "ask": "4800.00",
+      "bid": "4600.00",
+      "vendor": null
+    },
+    "ultra_intelligence_coffee": {
+      "ask": "14500.00",
+      "bid": "9000.00",
+      "vendor": null
+    },
+    "ultra_power_coffee": {
+      "ask": "14000.00",
+      "bid": "12500.00",
+      "vendor": null
+    },
+    "wisdom_coffee": {
+      "ask": "1350.00",
+      "bid": "1250.00",
+      "vendor": null
+    },
+    "channeling_coffee": {
+      "ask": "2600.00",
+      "bid": "2309.76",
+      "vendor": null
     }
   },
   "time": {
-    "timestamp": "2025-01-09T14:56:34.842Z"
+    "timestamp": "2025-01-09T14:59:33.973Z"
   }
 }
