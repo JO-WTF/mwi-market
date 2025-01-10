@@ -2247,7 +2247,7 @@
     },
     "Peach Yogurt": {
       "ask": "840.00",
-      "bid": "720.00",
+      "bid": "720.37",
       "vendor": null
     },
     "Pearl": {
@@ -2977,7 +2977,7 @@
     },
     "Spaceberry": {
       "ask": "160.00",
-      "bid": "155.00",
+      "bid": "150.00",
       "vendor": null
     },
     "Spaceberry Cake": {
@@ -3042,7 +3042,7 @@
     },
     "Star Fruit Yogurt": {
       "ask": "1500.00",
-      "bid": "1450.00",
+      "bid": "1400.00",
       "vendor": null
     },
     "Steady Shot": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-10T11:48:18.327Z"
+  "time": "2025-01-10T11:51:16.923Z"
 }
