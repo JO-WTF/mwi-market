@@ -411,7 +411,7 @@
       "vendor": null
     },
     "Blackberry Cake": {
-      "ask": "3648.48",
+      "ask": "3676.45",
       "bid": "349.86",
       "vendor": null
     },
@@ -2101,8 +2101,8 @@
       "vendor": 60000
     },
     "Marsberry": {
-      "ask": "115.00",
-      "bid": "110.00",
+      "ask": "120.00",
+      "bid": "105.16",
       "vendor": null
     },
     "Marsberry Cake": {
@@ -2161,12 +2161,12 @@
       "vendor": 200000
     },
     "Mooberry": {
-      "ask": "150.00",
+      "ask": "160.00",
       "bid": "130.00",
       "vendor": null
     },
     "Mooberry Cake": {
-      "ask": "1198.92",
+      "ask": "1200.00",
       "bid": "880.00",
       "vendor": null
     },
@@ -2212,7 +2212,7 @@
     },
     "Orange Gummy": {
       "ask": "40.00",
-      "bid": "21.00",
+      "bid": "20.00",
       "vendor": null
     },
     "Orange Key Fragment": {
@@ -2236,17 +2236,17 @@
       "vendor": 60000
     },
     "Peach": {
-      "ask": "43.00",
+      "ask": "45.00",
       "bid": "38.00",
       "vendor": null
     },
     "Peach Gummy": {
-      "ask": "244.95",
-      "bid": "225.00",
+      "ask": "245.00",
+      "bid": "230.00",
       "vendor": null
     },
     "Peach Yogurt": {
-      "ask": "878.16",
+      "ask": "840.00",
       "bid": "720.00",
       "vendor": null
     },
@@ -2302,7 +2302,7 @@
     },
     "Plum Gummy": {
       "ask": "71.77",
-      "bid": "52.00",
+      "bid": "50.00",
       "vendor": null
     },
     "Plum Yogurt": {
@@ -2976,8 +2976,8 @@
       "vendor": 400000
     },
     "Spaceberry": {
-      "ask": "165.00",
-      "bid": "150.00",
+      "ask": "160.00",
+      "bid": "155.00",
       "vendor": null
     },
     "Spaceberry Cake": {
@@ -2986,7 +2986,7 @@
       "vendor": null
     },
     "Spaceberry Donut": {
-      "ask": "1250.00",
+      "ask": "1248.96",
       "bid": "1100.00",
       "vendor": null
     },
@@ -3031,7 +3031,7 @@
       "vendor": 100
     },
     "Star Fruit": {
-      "ask": "380.00",
+      "ask": "389.98",
       "bid": "360.00",
       "vendor": null
     },
@@ -3637,9 +3637,9 @@
     },
     "Yogurt": {
       "ask": "860.00",
-      "bid": "30.46",
+      "bid": "30.23",
       "vendor": null
     }
   },
-  "time": "2025-01-10T10:42:04.064Z"
+  "time": "2025-01-10T11:23:17.369Z"
 }
