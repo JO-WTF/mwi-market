@@ -56,7 +56,7 @@
       "vendor": null
     },
     "Apple Gummy": {
-      "ask": "14.00",
+      "ask": "13.00",
       "bid": "10.00",
       "vendor": null
     },
@@ -2211,7 +2211,7 @@
       "vendor": null
     },
     "Orange Gummy": {
-      "ask": "40.00",
+      "ask": "39.00",
       "bid": "20.00",
       "vendor": null
     },
@@ -2241,7 +2241,7 @@
       "vendor": null
     },
     "Peach Gummy": {
-      "ask": "245.00",
+      "ask": "240.00",
       "bid": "230.00",
       "vendor": null
     },
@@ -2301,7 +2301,7 @@
       "vendor": null
     },
     "Plum Gummy": {
-      "ask": "71.77",
+      "ask": "68.00",
       "bid": "50.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-10T11:31:17.087Z"
+  "time": "2025-01-10T11:35:17.155Z"
 }
