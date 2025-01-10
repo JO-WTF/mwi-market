@@ -56,7 +56,7 @@
       "vendor": null
     },
     "Apple Gummy": {
-      "ask": "12.00",
+      "ask": "12.82",
       "bid": "10.00",
       "vendor": null
     },
@@ -432,7 +432,7 @@
     },
     "Blueberry": {
       "ask": "64.00",
-      "bid": "43.00",
+      "bid": "42.00",
       "vendor": null
     },
     "Blueberry Cake": {
@@ -441,7 +441,7 @@
       "vendor": null
     },
     "Blueberry Donut": {
-      "ask": "489.94",
+      "ask": "490.00",
       "bid": "40.00",
       "vendor": null
     },
@@ -2101,7 +2101,7 @@
       "vendor": 60000
     },
     "Marsberry": {
-      "ask": "115.00",
+      "ask": "120.00",
       "bid": "100.00",
       "vendor": null
     },
@@ -3032,11 +3032,11 @@
     },
     "Star Fruit": {
       "ask": "370.00",
-      "bid": "340.00",
+      "bid": "350.00",
       "vendor": null
     },
     "Star Fruit Gummy": {
-      "ask": "1500.00",
+      "ask": "1499.75",
       "bid": "1104.55",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-10T00:14:00.934Z"
+  "time": "2025-01-10T00:21:06.800Z"
 }
