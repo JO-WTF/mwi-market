@@ -2106,7 +2106,7 @@
       "vendor": null
     },
     "Marsberry Cake": {
-      "ask": "1200.00",
+      "ask": "1150.00",
       "bid": "1100.00",
       "vendor": null
     },
@@ -2171,7 +2171,7 @@
       "vendor": null
     },
     "Mooberry Donut": {
-      "ask": "800.00",
+      "ask": "780.00",
       "bid": "600.00",
       "vendor": null
     },
@@ -3031,7 +3031,7 @@
       "vendor": 100
     },
     "Star Fruit": {
-      "ask": "370.00",
+      "ask": "380.00",
       "bid": "360.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T14:56:22.293Z"
+  "time": "2025-01-11T15:01:17.746Z"
 }
