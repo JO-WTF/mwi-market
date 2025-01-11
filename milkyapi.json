@@ -2222,7 +2222,7 @@
     },
     "Orange Yogurt": {
       "ask": "678.22",
-      "bid": "374.57",
+      "bid": "371.16",
       "vendor": null
     },
     "Panda Fluff": {
@@ -2296,7 +2296,7 @@
       "vendor": 6000
     },
     "Plum": {
-      "ask": "47.76",
+      "ask": "47.79",
       "bid": "30.00",
       "vendor": null
     },
@@ -2987,7 +2987,7 @@
     },
     "Spaceberry Donut": {
       "ask": "1100.00",
-      "bid": "960.00",
+      "bid": "980.00",
       "vendor": null
     },
     "Spacia Coffee Bean": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T16:41:18.065Z"
+  "time": "2025-01-11T16:44:18.988Z"
 }
