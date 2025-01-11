@@ -2107,7 +2107,7 @@
     },
     "Marsberry Cake": {
       "ask": "1200.00",
-      "bid": "1100.00",
+      "bid": "1072.42",
       "vendor": null
     },
     "Marsberry Donut": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T16:50:19.116Z"
+  "time": "2025-01-11T16:51:16.972Z"
 }
