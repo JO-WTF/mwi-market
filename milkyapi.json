@@ -431,7 +431,7 @@
       "vendor": 10000
     },
     "Blueberry": {
-      "ask": "57.95",
+      "ask": "60.00",
       "bid": "47.00",
       "vendor": null
     },
@@ -3031,12 +3031,12 @@
       "vendor": 100
     },
     "Star Fruit": {
-      "ask": "390.00",
+      "ask": "400.00",
       "bid": "350.00",
       "vendor": null
     },
     "Star Fruit Gummy": {
-      "ask": "1249.24",
+      "ask": "1249.53",
       "bid": "980.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T10:32:19.481Z"
+  "time": "2025-01-11T10:35:17.153Z"
 }
