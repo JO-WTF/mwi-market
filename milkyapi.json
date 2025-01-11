@@ -56,7 +56,7 @@
       "vendor": null
     },
     "Apple Gummy": {
-      "ask": "13.99",
+      "ask": "14.00",
       "bid": "10.00",
       "vendor": null
     },
@@ -1251,7 +1251,7 @@
       "vendor": null
     },
     "Dragon Fruit": {
-      "ask": "170.00",
+      "ask": "174.92",
       "bid": "150.00",
       "vendor": null
     },
@@ -3062,7 +3062,7 @@
     },
     "Strawberry Cake": {
       "ask": "1745.56",
-      "bid": "677.31",
+      "bid": "649.74",
       "vendor": null
     },
     "Strawberry Donut": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T10:04:17.551Z"
+  "time": "2025-01-11T10:09:17.536Z"
 }
