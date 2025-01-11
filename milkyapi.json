@@ -1252,12 +1252,12 @@
     },
     "Dragon Fruit": {
       "ask": "175.00",
-      "bid": "150.91",
+      "bid": "155.00",
       "vendor": null
     },
     "Dragon Fruit Gummy": {
       "ask": "738.39",
-      "bid": "681.00",
+      "bid": "680.98",
       "vendor": null
     },
     "Dragon Fruit Yogurt": {
@@ -3032,7 +3032,7 @@
     },
     "Star Fruit": {
       "ask": "380.00",
-      "bid": "360.00",
+      "bid": "350.00",
       "vendor": null
     },
     "Star Fruit Gummy": {
@@ -3041,8 +3041,8 @@
       "vendor": null
     },
     "Star Fruit Yogurt": {
-      "ask": "1550.00",
-      "bid": "1500.00",
+      "ask": "1500.00",
+      "bid": "1450.00",
       "vendor": null
     },
     "Steady Shot": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T15:02:22.066Z"
+  "time": "2025-01-11T15:07:17.678Z"
 }
