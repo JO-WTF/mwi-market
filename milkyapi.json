@@ -1252,7 +1252,7 @@
     },
     "Dragon Fruit": {
       "ask": "174.92",
-      "bid": "150.00",
+      "bid": "150.91",
       "vendor": null
     },
     "Dragon Fruit Gummy": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T11:52:16.882Z"
+  "time": "2025-01-11T11:52:17.087Z"
 }
