@@ -56,12 +56,12 @@
       "vendor": null
     },
     "Apple Gummy": {
-      "ask": "13.97",
+      "ask": "13.99",
       "bid": "10.00",
       "vendor": null
     },
     "Apple Yogurt": {
-      "ask": "517.73",
+      "ask": "521.20",
       "bid": "163.90",
       "vendor": null
     },
@@ -1257,7 +1257,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": "720.00",
-      "bid": "680.56",
+      "bid": "680.00",
       "vendor": null
     },
     "Dragon Fruit Yogurt": {
@@ -2247,7 +2247,7 @@
     },
     "Peach Yogurt": {
       "ask": "858.08",
-      "bid": "760.00",
+      "bid": "780.00",
       "vendor": null
     },
     "Pearl": {
@@ -2981,8 +2981,8 @@
       "vendor": null
     },
     "Spaceberry Cake": {
-      "ask": "1500.00",
-      "bid": "1405.35",
+      "ask": "1450.00",
+      "bid": "1400.00",
       "vendor": null
     },
     "Spaceberry Donut": {
@@ -3036,7 +3036,7 @@
       "vendor": null
     },
     "Star Fruit Gummy": {
-      "ask": "1300.00",
+      "ask": "1200.00",
       "bid": "960.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T07:05:06.751Z"
+  "time": "2025-01-11T07:12:17.066Z"
 }
