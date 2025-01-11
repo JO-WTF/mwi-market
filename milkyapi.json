@@ -2301,7 +2301,7 @@
       "vendor": null
     },
     "Plum Gummy": {
-      "ask": "74.00",
+      "ask": "73.98",
       "bid": "64.00",
       "vendor": null
     },
@@ -3031,7 +3031,7 @@
       "vendor": 100
     },
     "Star Fruit": {
-      "ask": "380.00",
+      "ask": "370.00",
       "bid": "360.00",
       "vendor": null
     },
@@ -3041,7 +3041,7 @@
       "vendor": null
     },
     "Star Fruit Yogurt": {
-      "ask": "1550.00",
+      "ask": "1500.00",
       "bid": "1400.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T16:20:29.058Z"
+  "time": "2025-01-11T16:24:21.568Z"
 }
