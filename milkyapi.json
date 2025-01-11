@@ -2982,7 +2982,7 @@
     },
     "Spaceberry Cake": {
       "ask": "1500.00",
-      "bid": "1450.00",
+      "bid": "1400.00",
       "vendor": null
     },
     "Spaceberry Donut": {
@@ -3036,8 +3036,8 @@
       "vendor": null
     },
     "Star Fruit Gummy": {
-      "ask": "1249.63",
-      "bid": "1000.00",
+      "ask": "1250.00",
+      "bid": "1007.04",
       "vendor": null
     },
     "Star Fruit Yogurt": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T11:21:17.174Z"
+  "time": "2025-01-11T11:22:19.751Z"
 }
