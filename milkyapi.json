@@ -3057,7 +3057,7 @@
     },
     "Strawberry": {
       "ask": "100.00",
-      "bid": "78.00",
+      "bid": "80.00",
       "vendor": null
     },
     "Strawberry Cake": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T12:30:20.375Z"
+  "time": "2025-01-11T12:31:16.776Z"
 }
