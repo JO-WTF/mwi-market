@@ -2986,8 +2986,8 @@
       "vendor": null
     },
     "Spaceberry Donut": {
-      "ask": "1150.00",
-      "bid": "1100.00",
+      "ask": "1100.00",
+      "bid": "1050.00",
       "vendor": null
     },
     "Spacia Coffee Bean": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T08:43:17.578Z"
+  "time": "2025-01-11T08:44:19.529Z"
 }
