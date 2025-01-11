@@ -1262,7 +1262,7 @@
     },
     "Dragon Fruit Yogurt": {
       "ask": "1100.00",
-      "bid": "1000.00",
+      "bid": "1050.00",
       "vendor": null
     },
     "Earrings Of Armor": {
@@ -2161,7 +2161,7 @@
       "vendor": 200000
     },
     "Mooberry": {
-      "ask": "175.00",
+      "ask": "170.00",
       "bid": "150.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T08:26:18.297Z"
+  "time": "2025-01-11T08:29:16.866Z"
 }
