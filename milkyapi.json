@@ -1251,7 +1251,7 @@
       "vendor": null
     },
     "Dragon Fruit": {
-      "ask": "174.92",
+      "ask": "175.00",
       "bid": "150.91",
       "vendor": null
     },
@@ -2306,7 +2306,7 @@
       "vendor": null
     },
     "Plum Yogurt": {
-      "ask": "980.00",
+      "ask": "979.17",
       "bid": "580.00",
       "vendor": null
     },
@@ -3061,7 +3061,7 @@
       "vendor": null
     },
     "Strawberry Cake": {
-      "ask": "1082.18",
+      "ask": "1745.15",
       "bid": "649.74",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-11T12:04:25.723Z"
+  "time": "2025-01-11T12:04:26.186Z"
 }
