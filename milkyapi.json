@@ -2211,7 +2211,7 @@
       "vendor": null
     },
     "Orange Gummy": {
-      "ask": "34.00",
+      "ask": "33.94",
       "bid": "23.00",
       "vendor": null
     },
@@ -2301,7 +2301,7 @@
       "vendor": null
     },
     "Plum Gummy": {
-      "ask": "74.00",
+      "ask": "73.99",
       "bid": "64.04",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-12T06:46:18.461Z"
+  "time": "2025-01-12T06:47:18.104Z"
 }
