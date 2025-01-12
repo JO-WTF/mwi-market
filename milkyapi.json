@@ -407,7 +407,7 @@
     },
     "Blackberry": {
       "ask": "47.00",
-      "bid": "44.00",
+      "bid": "40.03",
       "vendor": null
     },
     "Blackberry Cake": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-12T07:01:17.787Z"
+  "time": "2025-01-12T07:02:18.216Z"
 }
