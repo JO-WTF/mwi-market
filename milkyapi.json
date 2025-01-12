@@ -436,7 +436,7 @@
       "vendor": null
     },
     "Blueberry Cake": {
-      "ask": "954.08",
+      "ask": "946.27",
       "bid": "261.01",
       "vendor": null
     },
@@ -1257,7 +1257,7 @@
     },
     "Dragon Fruit Gummy": {
       "ask": "720.00",
-      "bid": "700.00",
+      "bid": "680.00",
       "vendor": null
     },
     "Dragon Fruit Yogurt": {
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-12T07:17:18.087Z"
+  "time": "2025-01-12T07:18:17.243Z"
 }
