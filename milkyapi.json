@@ -1251,8 +1251,8 @@
       "vendor": null
     },
     "Dragon Fruit": {
-      "ask": "165.00",
-      "bid": "140.00",
+      "ask": "160.00",
+      "bid": "145.00",
       "vendor": null
     },
     "Dragon Fruit Gummy": {
@@ -2221,7 +2221,7 @@
       "vendor": 50000
     },
     "Orange Yogurt": {
-      "ask": "676.85",
+      "ask": "640.00",
       "bid": "370.00",
       "vendor": null
     },
@@ -3641,5 +3641,5 @@
       "vendor": null
     }
   },
-  "time": "2025-01-12T06:28:19.888Z"
+  "time": "2025-01-12T06:30:18.820Z"
 }
